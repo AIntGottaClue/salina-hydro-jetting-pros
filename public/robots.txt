@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salinahydrojetting.prosapp.site/sitemap.xml
